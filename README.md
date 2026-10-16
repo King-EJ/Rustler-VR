@@ -126,11 +126,11 @@ X + Y together .. Start (pause)
 
 Left stick click  L3
 
-Right stick up .. d-pad left
+Right stick up .. d-pad left (swap weapon)
 
-Right stick down  d-pad up
+Right stick down  d-pad up (swap weapon type)
 
-Right stick click d-pad down
+Right stick click d-pad down (burp)
 
 Right stick left / right  turn (snap 30 degrees)
 
