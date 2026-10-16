@@ -110,7 +110,7 @@ Right trigger ... RT (swing fire)
 
 Left trigger .... LT (back house up)
 
-Right grip ...... RB (aim\laser)
+Right grip ...... RB (aim\laser\block)
 
 Left grip ....... LB (sprint player\house)
 
