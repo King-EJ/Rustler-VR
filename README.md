@@ -145,6 +145,7 @@ In the game: right grip (RB) = aim / block, left trigger (LT) = horse backs up (
 Every button can be changed in [GamepadButtons] of the config file.
 
 NOTES
-* horse riding weird 
+* horse riding weird
+* better to use LG to move single horse foward 
 
 Source code is in BepInEx\plugins\RusVR\source.
